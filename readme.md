@@ -1,57 +1,6 @@
 <div align="center">
 	<img width="500" height="350" src="media/logo.svg" alt="Awesome">
-	<br>
-	<p>
-		<sup>Special thanks to:</sup>
-		<br>
-		<br>
-		<br>
-		<a href="https://depot.dev?utm_source=github&utm_medium=sindresorhus">
-			<div>
-				<picture>
-					<source width="180" media="(prefers-color-scheme: dark)" srcset="https://sindresorhus.com/assets/thanks/depot-logo-dark.svg">
-					<source width="180" media="(prefers-color-scheme: light)" srcset="https://sindresorhus.com/assets/thanks/depot-logo-light.svg">
-					<img width="180" src="https://sindresorhus.com/assets/thanks/depot-logo-light.svg" alt="Depot logo">
-				</picture>
-			</div>
-			<b>Fast remote container builds and GitHub Actions runners.</b>
-		</a>
-		<br>
-		<br>
-		<br>
-		<a href="https://circleback.ai?utm_source=sindresorhus&utm_medium=sponsorship&utm_campaign=awesome-list&utm_id=awesome">
-			<div>
-				<img width="340" src="https://sindresorhus.com/assets/thanks/circleback-logo.png?x" alt="Circleback logo">
-			</div>
-			<b>Get the most out of every conversation.</b>
-			<div>
-				<sup>AI-powered meeting notes, automations, and search. Give AI agents the context they need to get things done.</sup>
-			</div>
-		</a>
-		<br>
-		<br>
-		<br>
-	</p>
-	<hr>
-	<br>
-	<br>
-	<br>
-	<br>
-</div>
-<p align="center">
-	<a href="awesome.md">What is an awesome list?</a>&nbsp;&nbsp;&nbsp;
-	<a href="contributing.md">Contribution guide</a>&nbsp;&nbsp;&nbsp;
-	<a href="create-list.md">Creating a list</a>&nbsp;&nbsp;&nbsp;
-	<a href="https://twitter.com/awesome__re">Twitter</a>&nbsp;&nbsp;&nbsp;
-</p>
-<br>
-<br>
-<p align="center">
-	Just type <a href="https://awesome.re"><code>awesome.re</code></a> to go here. Check out my <a href="https://sindresorhus.com/apps">apps</a> and follow me on <a href="https://twitter.com/sindresorhus">Twitter</a>.
-</p>
-<br>
-<br>
-<br>
+	
 
 ## Contents
 
